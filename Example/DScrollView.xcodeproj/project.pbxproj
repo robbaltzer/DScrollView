@@ -515,6 +515,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 375832E322D2AB7ACEA13A0F /* Pods-DScrollView_Tests.debug.xcconfig */;
 			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -537,6 +538,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 86993B293AFE7EE115FF0222 /* Pods-DScrollView_Tests.release.xcconfig */;
 			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",
