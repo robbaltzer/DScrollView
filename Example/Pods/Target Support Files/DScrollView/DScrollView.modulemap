@@ -1,6 +1,0 @@
-framework module DScrollView {
-  umbrella header "DScrollView-umbrella.h"
-
-  export *
-  module * { export * }
-}

@@ -1,16 +1,23 @@
 PODS:
-  - DScrollView (0.1.0)
+  - DScrollView7878 (0.1.1):
+    - TinyConstraints (~> 4.0.0)
+  - TinyConstraints (4.0.1)
 
 DEPENDENCIES:
-  - DScrollView (from `../`)
+  - DScrollView7878 (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - TinyConstraints
 
 EXTERNAL SOURCES:
-  DScrollView:
+  DScrollView7878:
     :path: "../"
 
 SPEC CHECKSUMS:
-  DScrollView: a5b8c162a5a13e8490dc29af1f17d06b158e8b09
+  DScrollView7878: 867562c99ef20c75365b79b186405434d297083b
+  TinyConstraints: 8dd91295e56797648c7bc335dd20e1d91ec4c192
 
-PODFILE CHECKSUM: fbb74184f0101a0d5d4675f32dbc3f6649c2b2ab
+PODFILE CHECKSUM: 11ba2d1bd1ca3f96011e72b071622c9f1cb6a5ac
 
 COCOAPODS: 1.8.4

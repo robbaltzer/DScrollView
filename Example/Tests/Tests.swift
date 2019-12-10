@@ -1,5 +1,5 @@
 import XCTest
-import DScrollView
+import DScrollView7878
 
 class Tests: XCTestCase {
     

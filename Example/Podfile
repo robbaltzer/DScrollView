@@ -1,7 +1,9 @@
+platform :ios, '12.0'
+
 use_frameworks!
 
 target 'DScrollView_Example' do
-  pod 'DScrollView', :path => '../'
+  pod 'DScrollView7878', :path => '../'
 
   target 'DScrollView_Tests' do
     inherit! :search_paths

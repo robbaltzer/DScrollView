@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double DScrollViewVersionNumber;
-FOUNDATION_EXPORT const unsigned char DScrollViewVersionString[];
+FOUNDATION_EXPORT double DScrollView7878VersionNumber;
+FOUNDATION_EXPORT const unsigned char DScrollView7878VersionString[];
 
